@@ -8,3 +8,7 @@ Expose-ID will be read and Immobilien-Scout Expose-API will be called
 
 
 instruction to open result file (.csv) in Excel (or similar): 1) open .csv file in Excel 2) mark first column ("A") 3) go to "Data" -> "Text to columns" 4) choose "delimited", then "comma" as separator. you can choose formats for certain columns but not necessary 5) save copy as Excel-File. Do (beeter) not save changes to the original file, if you still want to process them
+
+
+to start jupyter notebook on Mac or Linux: Terminal --> jupyter notebook
+if you cd to folder containing notebook first, browser tab will open in that folder directly
